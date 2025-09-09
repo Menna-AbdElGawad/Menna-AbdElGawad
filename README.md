@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Menna AbdElGawad</h1>
-<h3 align="center">💻 Computer Science Student | 🌐 Web Development & 📊 Data Science Enthusiast</h3>
+<!-- Typing effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Menna+AbdElGawad" alt="Typing SVG" />
+</p>
+
+<h3 align="center">🎓 Computer Science Student | 🌐 Web Development & 📊 Data Science Enthusiast</h3>
 
 ---
 
@@ -25,10 +29,31 @@
 
 ---
 
-## 📊 GitHub Stats & Activity:
+## 🚀 Featured Projects:
+- 📚 **Library Management System (Web Book Borrowing System)**  
+   * Started with **SRS (Software Requirements Specification)**.  
+   * Implemented using **Python** with **MySQL Database** integration.  
+   * Features: login/sign-up, search, borrow/return books, and admin dashboard.  
+
+- 📱 **Azkar Application**  
+   * Java-based Islamic daily prayers app with user-friendly UI.  
+   * Implemented **OOP** concepts & local database.  
+   * Includes notifications for prayer reminders.  
+
+- 💰 **Personal Budgeting App**  
+   * Helps users track expenses, income, and visualize spending.  
+   * Includes authentication and bill reminders.  
+
+- 🤝 **Task-Worker Matching App**  
+   * Matches clients with freelance workers based on category, location, and availability.  
+   * Real-time updates & different user roles.  
+
+---
+
+## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Menna-AbdElGawad&show_icons=true&theme=radical" alt="Menna's GitHub stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Menna-AbdElGawad&theme=radical" alt="streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Menna-AbdElGawad&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Menna-AbdElGawad&theme=radical" height="180"/>
 </p>
 
 <p align="center">
@@ -36,17 +61,6 @@
 </p>
 
 ---
-
-## 🚀 Featured Projects:
-- 📚 **Library Management System** – Built full-stack with **Python + MySQL** (with SRS).  
-- 📱 **Azkar App** – Java app with OOP & local database.  
-- 💰 **Personal Budgeting App** – Expense tracking & bill reminders.  
-- 🤝 **Task-Worker Matching App** – Client-to-freelancer matching platform.  
-
----
-
-## ⚡ Fun Fact:
-✨ *I love turning complex problems into simple, elegant solutions!* ✨  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Menna-AbdElGawad&label=Profile%20Views&color=blueviolet&style=flat" alt="views"/>
