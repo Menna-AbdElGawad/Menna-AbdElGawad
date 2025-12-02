@@ -38,9 +38,9 @@
 
 #### 🌱 Currently Learning
 - 🤖 **Machine Learning & AI**
-- ☁️ **Cloud Computing**
+- ☁️ **Advanced Data Structures**
 - 📊 **Advanced Algorithms**
-- 🔐 **Cybersecurity Basics**
+- 🔐 **Backend**
 
 </td>
 </tr>
