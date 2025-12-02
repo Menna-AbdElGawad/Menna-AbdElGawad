@@ -1,67 +1,340 @@
-<!-- Typing effect -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Menna+AbdElGawad" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=200&section=header&text=Menna%20AbdElGawad&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future,%20One%20Line%20at%20a%20Time&descAlignY=55&descAlign=50" width="100%"/>
 </p>
 
-<h3 align="center">🎓 Computer Science Student | 🌐 Web Development & 📊 Data Science Enthusiast</h3>
+<!-- Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Web+Development+Enthusiast+%F0%9F%8C%90;Data+Science+Explorer+%F0%9F%93%8A;Problem+Solver+%F0%9F%92%A1;Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<!-- Profile Views & Social Proof -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Menna-AbdElGawad&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="views"/>
+  <img src="https://img.shields.io/github/followers/Menna-AbdElGawad?label=Followers&style=for-the-badge&color=8A2BE2" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/Menna-AbdElGawad?label=Stars&style=for-the-badge&color=purple" alt="stars"/>
+</p>
 
 ---
 
-## 🌐 Connect with Me:
+## 👋 About Me
+
+```python
+class Menna:
+    def __init__(self):
+        self.name = "Menna AbdElGawad"
+        self.role = "Computer Science Student"
+        self.location = "Cairo, Egypt 🇪🇬"
+        self.interests = ["Web Development", "Data Science", "Problem Solving"]
+        self.currently_learning = ["Advanced Algorithms", "Machine Learning", "Cloud Computing"]
+        self.fun_fact = "I debug with coffee ☕ and determination 💪"
+    
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something amazing together 🚀")
+
+me = Menna()
+me.say_hi()
+```
+
+🎯 **Current Focus:** Building full-stack applications and exploring the intersection of web development and data science
+
+💡 **Philosophy:** Clean code, continuous learning, and impactful solutions
+
+---
+
+## 🌐 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/menna-abdelgawad">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Menna-AbdElGawad">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:mennaabdelgawaad26@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  <em>Open to collaborations, internships, and innovative projects!</em>
+</p>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🌐 Web Development</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🔧 Tools & Platforms</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">❤️ Heart Disease Prediction App</h3>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+      </p>
+      <p>
+        AI-powered predictive analytics system for heart disease risk assessment with personalized health recommendations and bilingual support.
+      </p>
+      <p><strong>Key Features:</strong></p>
+      <ul>
+        <li>🎯 85%+ prediction accuracy</li>
+        <li>🧠 AI health coach & recommendations</li>
+        <li>🌐 Bilingual (Arabic/English) interface</li>
+        <li>📊 3D heart visualization</li>
+        <li>📋 Auto-generated health plans</li>
+        <li>💡 Explainable AI insights</li>
+      </ul>
+      <p align="center">
+        <a href="https://depi-final-project.streamlit.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+        </a>
+        <a href="https://github.com/Menna-AbdElGawad/heart-disease-prediction">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💻 Command Line Interpreter</h3>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Swing-007396?style=flat&logo=java&logoColor=white"/>
+      </p>
+      <p>
+        Full-featured terminal emulator built in Java with GUI interface, supporting 20+ commands and advanced file operations.
+      </p>
+      <p><strong>Key Features:</strong></p>
+      <ul>
+        <li>🖥️ GUI terminal with syntax highlighting</li>
+        <li>📁 File system operations (cp, mv, rm)</li>
+        <li>🗜️ Built-in zip/unzip support</li>
+        <li>🔄 I/O redirection (>, >>)</li>
+        <li>🎨 Colored output & error handling</li>
+        <li>⚡ Multi-threaded command execution</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Menna-AbdElGawad/cli-interpreter">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 Library Management System</h3>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+      </p>
+      <p>
+        A comprehensive web-based book borrowing system with complete CRUD operations, user authentication, and admin dashboard.
+      </p>
+      <p><strong>Key Features:</strong></p>
+      <ul>
+        <li>✅ Complete SRS documentation</li>
+        <li>🔐 Secure login/signup system</li>
+        <li>🔍 Advanced search functionality</li>
+        <li>📊 Admin analytics dashboard</li>
+        <li>⏰ Automated return reminders</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Menna-AbdElGawad/library-management">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 Azkar Application</h3>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+      </p>
+      <p>
+        Islamic daily prayers companion app with beautiful UI and smart notification system.
+      </p>
+      <p><strong>Key Features:</strong></p>
+      <ul>
+        <li>🕌 Prayer times & Azkar collection</li>
+        <li>📲 Smart notification system</li>
+        <li>💾 Local database integration</li>
+        <li>🎨 User-friendly interface</li>
+        <li>🔄 OOP design patterns</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Menna-AbdElGawad/azkar-app">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💰 Personal Budgeting App</h3>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+      </p>
+      <p>
+        Smart financial tracking app with visualization and insights to help users manage their money effectively.
+      </p>
+      <p><strong>Key Features:</strong></p>
+      <ul>
+        <li>📊 Expense & income tracking</li>
+        <li>📈 Data visualization charts</li>
+        <li>🔔 Bill payment reminders</li>
+        <li>🔐 Secure authentication</li>
+        <li>💡 Budget insights & tips</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Menna-AbdElGawad/budget-app">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤝 Task-Worker Matching App</h3>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+      </p>
+      <p>
+        Platform connecting clients with freelance workers based on skills, location, and availability.
+      </p>
+      <p><strong>Key Features:</strong></p>
+      <ul>
+        <li>🔍 Smart matching algorithm</li>
+        <li>📍 Location-based search</li>
+        <li>⚡ Real-time updates</li>
+        <li>👥 Multiple user roles</li>
+        <li>⭐ Rating & review system</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Menna-AbdElGawad/task-worker-app">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Menna-AbdElGawad&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menna-AbdElGawad&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Menna-AbdElGawad&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Menna-AbdElGawad&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Menna-AbdElGawad&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+</p>
+
+---
+
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
+
+---
+
+## 🎯 What I'm Up To
+
+- 🔭 Currently working on **full-stack web applications**
+- 🌱 Learning **Machine Learning & Cloud Technologies**
+- 👯 Looking to collaborate on **open-source projects**
+- 💬 Ask me about **Python, Java, Web Development, Databases**
+- ⚡ Fun fact: **I believe every bug is just an undocumented feature 🐛✨**
+
+---
+
+## 📫 Let's Collaborate!
+
+<p align="center">
+  <em>I'm always excited to connect with fellow developers, contribute to meaningful projects, and learn new technologies!</em>
+</p>
+
+<p align="center">
+  <a href="mailto:mennaabdelgawaad26@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools:
+<!-- Footer Wave -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql,postgres,git,github,vscode&perline=6" />
-</p>
-
----
-
-## 🚀 Featured Projects:
-- 📚 **Library Management System (Web Book Borrowing System)**  
-   * Started with **SRS (Software Requirements Specification)**.  
-   * Implemented using **Python** with **MySQL Database** integration.  
-   * Features: login/sign-up, search, borrow/return books, and admin dashboard.  
-
-- 📱 **Azkar Application**  
-   * Java-based Islamic daily prayers app with user-friendly UI.  
-   * Implemented **OOP** concepts & local database.  
-   * Includes notifications for prayer reminders.  
-
-- 💰 **Personal Budgeting App**  
-   * Helps users track expenses, income, and visualize spending.  
-   * Includes authentication and bill reminders.  
-
-- 🤝 **Task-Worker Matching App**  
-   * Matches clients with freelance workers based on category, location, and availability.  
-   * Real-time updates & different user roles.  
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Menna-AbdElGawad&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Menna-AbdElGawad&theme=radical" height="180"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=100&section=footer" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menna-AbdElGawad&layout=compact&theme=radical" height="150"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Menna-AbdElGawad&label=Profile%20Views&color=blueviolet&style=flat" alt="views"/>
+  <em>⭐ From <a href="https://github.com/Menna-AbdElGawad">Menna-AbdElGawad</a> - Let's build the future together! 💜</em>
 </p>
