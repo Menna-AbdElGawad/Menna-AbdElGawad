@@ -38,9 +38,10 @@
 
 #### 🌱 Currently Learning
 - 🤖 **Machine Learning & AI**
-- ☁️ **Advanced Data Structures**
+- ☁️ **Cloud Computing**
 - 📊 **Advanced Algorithms**
-- 🔐 **Backend**
+- 🔧 **Backend Development**
+- 🗃️ **Advanced Data Structures**
 
 </td>
 </tr>
@@ -114,7 +115,7 @@ Building projects that solve real problems and help people
 </p>
 
 <p align="center">
-  <em>Open to collaborations, internships, and innovative projects!</em>
+  <em>💼 Open to collaborations, internships, and innovative projects!</em>
 </p>
 
 ---
@@ -145,11 +146,23 @@ Building projects that solve real problems and help people
 </details>
 
 <details open>
+<summary><b>📊 Data Science & ML</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+</details>
+
+<details open>
 <summary><b>🗄️ Databases</b></summary>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 </details>
 
@@ -161,6 +174,7 @@ Building projects that solve real problems and help people
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
 </details>
 
@@ -234,7 +248,7 @@ Building projects that solve real problems and help people
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
       </p>
       <p>
-        A comprehensive web-based book borrowing system with complete CRUD operations, user authentication, and admin dashboard.
+        Comprehensive web-based book borrowing system with complete CRUD operations, user authentication, and admin dashboard.
       </p>
       <p><strong>Key Features:</strong></p>
       <ul>
@@ -365,10 +379,10 @@ Building projects that solve real problems and help people
 
 ## 🎯 What I'm Up To
 
-- 🔭 Currently working on **full-stack web applications**
-- 🌱 Learning **Machine Learning & Cloud Technologies**
-- 👯 Looking to collaborate on **open-source projects**
-- 💬 Ask me about **Python, Java, Web Development, Databases**
+- 🔭 Currently working on **AI-powered web applications**
+- 🌱 Learning **Machine Learning, Advanced Algorithms & Cloud Technologies**
+- 👯 Looking to collaborate on **open-source projects & innovative solutions**
+- 💬 Ask me about **Python, Java, Web Development, Data Science & Databases**
 - ⚡ Fun fact: **I believe every bug is just an undocumented feature 🐛✨**
 
 ---
