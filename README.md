@@ -19,26 +19,83 @@
 
 ## 👋 About Me
 
-```python
-class Menna:
-    def __init__(self):
-        self.name = "Menna AbdElGawad"
-        self.role = "Computer Science Student"
-        self.location = "Cairo, Egypt 🇪🇬"
-        self.interests = ["Web Development", "Data Science", "Problem Solving"]
-        self.currently_learning = ["Advanced Algorithms", "Machine Learning", "Cloud Computing"]
-        self.fun_fact = "I debug with coffee ☕ and determination 💪"
-    
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together 🚀")
+<div align="center">
 
-me = Menna()
-me.say_hi()
-```
+### 🚀 Passionate Computer Science Student | Problem Solver | Tech Enthusiast
 
-🎯 **Current Focus:** Building full-stack applications and exploring the intersection of web development and data science
+<table>
+<tr>
+<td valign="top" width="50%">
 
-💡 **Philosophy:** Clean code, continuous learning, and impactful solutions
+#### 🎓 Education & Background
+- 📚 **Computer Science Student**
+- 📍 Based in **Cairo, Egypt** 🇪🇬
+- 🎯 Focus: **Web Development & Data Science**
+- 💼 Open to **Internships & Collaborations**
+
+</td>
+<td valign="top" width="50%">
+
+#### 🌱 Currently Learning
+- 🤖 **Machine Learning & AI**
+- ☁️ **Cloud Computing**
+- 📊 **Advanced Algorithms**
+- 🔐 **Cybersecurity Basics**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 What Drives Me
+
+**"Turning ideas into reality through code, one project at a time"**
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
+
+**Clean Code**
+
+Writing maintainable, elegant solutions that stand the test of time
+
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/learning.png" width="60"/>
+
+**Continuous Learning**
+
+Always exploring new technologies and pushing my boundaries
+
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/>
+
+**Impact-Driven**
+
+Building projects that solve real problems and help people
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### ⚡ Fun Facts About Me
+
+🎨 I believe every bug is just an undocumented feature ✨ | ☕ Powered by coffee and curiosity | 🌟 Always up for a coding challenge
+
+</div>
 
 ---
 
