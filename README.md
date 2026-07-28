@@ -1,11 +1,11 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=200&section=header&text=Menna%20AbdElGawad&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future,%20One%20Line%20at%20a%20Time&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=200&section=header&text=Menna%20AbdElGawad&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=55&descAlign=50" width="100%"/>
 </p>
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Web+Development+Enthusiast+%F0%9F%8C%90;Data+Science+Explorer+%F0%9F%93%8A;Problem+Solver+%F0%9F%92%A1;Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Backend+Developer+%E2%98%95;Java+%26+Spring+Boot+Enthusiast+%F0%9F%9A%80;Computer+Science+Student+%F0%9F%8E%93;API+Design+%26+Clean+Architecture+%F0%9F%94%A7;Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views & Social Proof -->
@@ -21,27 +21,27 @@
 
 <div align="center">
 
-### 🚀 Passionate Computer Science Student | Problem Solver | Tech Enthusiast
+### ☕ Backend Developer Focused on Java & Spring Boot
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
 #### 🎓 Education & Background
-- 📚 **Computer Science Student**
+- 📚 **Computer Science Student**, Faculty of Computers and Artificial Intelligence, Cairo University
 - 📍 Based in **Cairo, Egypt** 🇪🇬
-- 🎯 Focus: **Web Development & Data Science**
-- 💼 Open to **Internships & Collaborations**
+- 🎯 Focus: **Backend Development with Java & Spring Boot**
+- 💼 Open to **Backend Internships & Collaborations**
 
 </td>
 <td valign="top" width="50%">
 
 #### 🌱 Currently Learning
-- 🤖 **Machine Learning & AI**
-- ☁️ **Cloud Computing**
-- 📊 **Advanced Algorithms**
-- 🔧 **Backend Development**
-- 🗃️ **Advanced Data Structures**
+- 🌐 **RESTful API Design**
+- 🗄️ **Spring Data JPA & Database Design**
+- 🏗️ **Backend Architecture & Clean Code**
+- 🔍 **API Contract Testing & CI/CD**
+- ☁️ **Cloud & Deployment Fundamentals**
 
 </td>
 </tr>
@@ -55,7 +55,7 @@
 
 ### 💫 What Drives Me
 
-**"Turning ideas into reality through code, one project at a time"**
+**"Building reliable, well-architected backend systems, one API at a time"**
 
 </div>
 
@@ -64,17 +64,17 @@
 <td width="33%" align="center">
 <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
 
-**Clean Code**
+**Clean Architecture**
 
-Writing maintainable, elegant solutions that stand the test of time
+Writing maintainable, well-structured Spring Boot services
 
 </td>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/learning.png" width="60"/>
+<img src="https://img.icons8.com/fluency/96/000000/api-settings.png" width="60"/>
 
-**Continuous Learning**
+**API Design**
 
-Always exploring new technologies and pushing my boundaries
+Designing robust, well-documented REST APIs
 
 </td>
 <td width="33%" align="center">
@@ -82,7 +82,7 @@ Always exploring new technologies and pushing my boundaries
 
 **Impact-Driven**
 
-Building projects that solve real problems and help people
+Building backend tools that solve real developer problems
 
 </td>
 </tr>
@@ -94,7 +94,7 @@ Building projects that solve real problems and help people
 
 ### ⚡ Fun Facts About Me
 
-🎨 I believe every bug is just an undocumented feature ✨ | ☕ Powered by coffee and curiosity | 🌟 Always up for a coding challenge
+🎨 I believe every bug is just an undocumented feature ✨ | ☕ Powered by coffee and curiosity | 🌟 Always up for a backend challenge
 
 </div>
 
@@ -115,7 +115,7 @@ Building projects that solve real problems and help people
 </p>
 
 <p align="center">
-  <em>💼 Open to collaborations, internships, and innovative projects!</em>
+  <em>💼 Open to backend collaborations, internships, and innovative projects!</em>
 </p>
 
 ---
@@ -123,36 +123,27 @@ Building projects that solve real problems and help people
 ## 🛠️ Tech Stack & Tools
 
 <details open>
-<summary><b>💻 Programming Languages</b></summary>
+<summary><b>☕ Backend & Languages</b></summary>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 </details>
 
 <details open>
-<summary><b>🌐 Web Development</b></summary>
+<summary><b>🌐 APIs & Web</b></summary>
 <br>
 <p align="center">
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-</details>
-
-<details open>
-<summary><b>📊 Data Science & ML</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 </details>
 
@@ -160,8 +151,8 @@ Building projects that solve real problems and help people
 <summary><b>🗄️ Databases</b></summary>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 </details>
@@ -172,44 +163,77 @@ Building projects that solve real problems and help people
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 </details>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Backend Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">❤️ Heart Disease Prediction App</h3>
+      <h3 align="center">🔍 API Contract Drift Detector</h3>
       <br>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
       </p>
       <p>
-        AI-powered predictive analytics system for heart disease risk assessment with personalized health recommendations and bilingual support.
+        Graduation project: an automated tool that detects breaking vs. non-breaking API contract changes, analyzes frontend impact, and integrates directly into CI/CD pipelines.
       </p>
       <p><strong>Key Features:</strong></p>
       <ul>
-        <li>🎯 85%+ prediction accuracy</li>
-        <li>🧠 AI health coach & recommendations</li>
-        <li>🌐 Bilingual (Arabic/English) interface</li>
-        <li>📊 3D heart visualization</li>
-        <li>📋 Auto-generated health plans</li>
-        <li>💡 Explainable AI insights</li>
+        <li>📜 Built on Spring Boot + springdoc-openapi</li>
+        <li>🚦 Classifies breaking vs. non-breaking changes</li>
+        <li>🔗 CI/CD pipeline integration via GitHub Actions</li>
+        <li>🧩 Pure backend-engineering focus (no ML)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 Spring Boot E-Commerce Platform</h3>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white"/>
+      </p>
+      <p>
+        A Spring Boot e-commerce backend, iteratively refactored toward cleaner, more idiomatic architecture.
+      </p>
+      <p><strong>Key Features:</strong></p>
+      <ul>
+        <li>🔄 Migrated from DAO Interface+Impl pairs to JpaRepository</li>
+        <li>👤 Unified User/Role-enum design instead of separate User/Admin classes</li>
+        <li>🏗️ Ongoing architecture refinement</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧑‍💻 DevMate — Developer Lookup Tool</h3>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      </p>
+      <p>
+        A personal side project: a Spring Boot REST API paired with a lightweight HTML/CSS/JS frontend.
+      </p>
+      <p><strong>Key Features:</strong></p>
+      <ul>
+        <li>🔎 Lookup commands (git, linux, docker) and error solutions</li>
+        <li>⭐ Save favorites after login</li>
+        <li>🗺️ Built in phases as a personal learning roadmap</li>
       </ul>
       <p align="center">
-        <a href="https://depi-final-project.streamlit.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-        </a>
-        <a href="https://github.com/Menna-AbdElGawad/heart-disease-prediction">
-          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github"/>
+        <a href="https://github.com/Menna-AbdElGawad">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
         </a>
       </p>
     </td>
@@ -221,7 +245,7 @@ Building projects that solve real problems and help people
         <img src="https://img.shields.io/badge/Swing-007396?style=flat&logo=java&logoColor=white"/>
       </p>
       <p>
-        Full-featured terminal emulator built in Java with GUI interface, supporting 20+ commands and advanced file operations.
+        Full-featured terminal emulator built in Java with a GUI interface, supporting 20+ commands and advanced file operations.
       </p>
       <p><strong>Key Features:</strong></p>
       <ul>
@@ -229,7 +253,6 @@ Building projects that solve real problems and help people
         <li>📁 File system operations (cp, mv, rm)</li>
         <li>🗜️ Built-in zip/unzip support</li>
         <li>🔄 I/O redirection (>, >>)</li>
-        <li>🎨 Colored output & error handling</li>
         <li>⚡ Multi-threaded command execution</li>
       </ul>
       <p align="center">
@@ -256,7 +279,6 @@ Building projects that solve real problems and help people
         <li>🔐 Secure login/signup system</li>
         <li>🔍 Advanced search functionality</li>
         <li>📊 Admin analytics dashboard</li>
-        <li>⏰ Automated return reminders</li>
       </ul>
       <p align="center">
         <a href="https://github.com/Menna-AbdElGawad/library-management">
@@ -279,62 +301,10 @@ Building projects that solve real problems and help people
         <li>🕌 Prayer times & Azkar collection</li>
         <li>📲 Smart notification system</li>
         <li>💾 Local database integration</li>
-        <li>🎨 User-friendly interface</li>
         <li>🔄 OOP design patterns</li>
       </ul>
       <p align="center">
         <a href="https://github.com/Menna-AbdElGawad/azkar-app">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💰 Personal Budgeting App</h3>
-      <br>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-      </p>
-      <p>
-        Smart financial tracking app with visualization and insights to help users manage their money effectively.
-      </p>
-      <p><strong>Key Features:</strong></p>
-      <ul>
-        <li>📊 Expense & income tracking</li>
-        <li>📈 Data visualization charts</li>
-        <li>🔔 Bill payment reminders</li>
-        <li>🔐 Secure authentication</li>
-        <li>💡 Budget insights & tips</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/Menna-AbdElGawad/budget-app">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤝 Task-Worker Matching App</h3>
-      <br>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
-      </p>
-      <p>
-        Platform connecting clients with freelance workers based on skills, location, and availability.
-      </p>
-      <p><strong>Key Features:</strong></p>
-      <ul>
-        <li>🔍 Smart matching algorithm</li>
-        <li>📍 Location-based search</li>
-        <li>⚡ Real-time updates</li>
-        <li>👥 Multiple user roles</li>
-        <li>⭐ Rating & review system</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/Menna-AbdElGawad/task-worker-app">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
         </a>
       </p>
@@ -376,10 +346,10 @@ Building projects that solve real problems and help people
 
 ## 🎯 What I'm Up To
 
-- 🔭 Currently working on **AI-powered web applications**
-- 🌱 Learning **Machine Learning, Advanced Algorithms & Cloud Technologies**
-- 👯 Looking to collaborate on **open-source projects & innovative solutions**
-- 💬 Ask me about **Python, Java, Web Development, Data Science & Databases**
+- 🔭 Currently working on my **graduation project: an automated API contract drift detection tool** (Spring Boot, springdoc-openapi, PostgreSQL, GitHub Actions)
+- 🌱 Deepening my knowledge of **Spring Boot, REST API design, and backend architecture**
+- 👯 Looking to collaborate on **backend & developer-tooling projects**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, and databases**
 - ⚡ Fun fact: **I believe every bug is just an undocumented feature 🐛✨**
 
 ---
@@ -387,7 +357,7 @@ Building projects that solve real problems and help people
 ## 📫 Let's Collaborate!
 
 <p align="center">
-  <em>I'm always excited to connect with fellow developers, contribute to meaningful projects, and learn new technologies!</em>
+  <em>I'm always excited to connect with fellow backend developers, contribute to meaningful projects, and sharpen my Spring Boot skills!</em>
 </p>
 
 <p align="center">
