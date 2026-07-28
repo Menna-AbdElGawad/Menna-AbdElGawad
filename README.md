@@ -5,7 +5,7 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Web+Development+Enthusiast+%F0%9F%8C%90;Data+Science+Explorer+%F0%9F%93%8A;Problem+Solver+%F0%9F%92%A1;Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Backend+Developer+%E2%98%95;Java+%26+Spring+Boot+%F0%9F%9A%80;Computer+Science+Student+%F0%9F%8E%93;Problem+Solver+%F0%9F%92%A1;Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views & Social Proof -->
@@ -18,19 +18,21 @@
 ---
 
 ## 👋 About Me
- 
+
 <div align="center">
+
 ### ☕ Backend Developer Focused on Java & Spring Boot
- 
+
 <table>
 <tr>
 <td valign="top" width="50%">
-  
+
 #### 🎓 Education & Background
 - 📚 **Computer Science Student**, Faculty of Computers and Artificial Intelligence, Cairo University
 - 📍 Based in **Cairo, Egypt** 🇪🇬
 - 🎯 Focus: **Backend Development with Java & Spring Boot**
 - 💼 Open to **Backend Internships & Collaborations**
+
 </td>
 <td valign="top" width="50%">
 
